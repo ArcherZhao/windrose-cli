@@ -1,0 +1,19 @@
+{
+  "name": "windrose-cli",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wind": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Archer Zhao <zlming1015@gmail.com> (http://zhaoluming.cn)",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "shelljs": "^0.8.2"
+  }
+}
